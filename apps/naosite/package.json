@@ -1,0 +1,10 @@
+{
+  "name": "naosite",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve -p 5173",
+    "preview": "npx serve -p 5173",
+    "start": "npx serve -p 5173"
+  }
+}
