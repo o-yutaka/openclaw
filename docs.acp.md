@@ -1,7 +1,8 @@
 # OpenClaw ACP Bridge
 
 This document describes how the OpenClaw ACP (Agent Client Protocol) bridge works,
-how it maps ACP sessions to Gateway sessions, and how IDEs should invoke it.
+how it maps ACP sessions to Gateway sessions, and how IDEs sho**uld invoke it.
+**
 
 ## Overview
 
